@@ -56,7 +56,7 @@ public class AnnotaionsBasic {
 	public void AfterClass2() {
 		System.out.println("<----Close the Browser---->");
 	}
-	public void Aftersuite2() {
+	public void After() {
 		System.out.println("<----check the Browser---->");
 	}
 }
